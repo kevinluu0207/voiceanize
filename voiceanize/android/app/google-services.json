@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027033696416",
+    "firebase_url": "https://voiceanize-b747c.firebaseio.com",
+    "project_id": "voiceanize-b747c",
+    "storage_bucket": "voiceanize-b747c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027033696416:android:f08fa41ddd75e64a3021c5",
+        "android_client_info": {
+          "package_name": "com.staytrashy.voiceanize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027033696416-fqt1t277lagqf6m24ca8geskld8qsfv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALgsMUY5jqGCN49CBUT3tKWyJoAdYFtRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027033696416-fqt1t277lagqf6m24ca8geskld8qsfv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
